@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+#main {
+  position: fixed;
+  left: 0;
+  width: 250px;
+  height: 100%;
+  background-color: aliceblue;
+}
+
+#main .codinglab {
+  font-size: 25px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 70px;
+  background-color: whitesmoke;
+}
+.main_menu .list a i {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-betweenq;
+}

@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../practicebyself.html"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "sidebar_menu.html"
+  }
+}
